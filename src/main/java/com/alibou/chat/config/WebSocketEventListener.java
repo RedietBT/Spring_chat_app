@@ -1,5 +1,6 @@
 package com.alibou.chat.config;
 
+
 import com.alibou.chat.chat.ChatMessage;
 import com.alibou.chat.chat.MessageType;
 import lombok.RequiredArgsConstructor;
